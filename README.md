@@ -10,4 +10,4 @@ Spacex redesign using Html, Css and JavaScript.
 
 
 ## Stack
-HTML< CSS, Javascript.
+HTML5, CSS3, Javascript.
